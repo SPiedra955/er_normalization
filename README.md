@@ -7,7 +7,7 @@
     * [**Explanation**](#explanation) 
  * [**Normalization activity**](#normalization-activity)
     * [**Propose activity**](#propose-activity)
-    * [**Answer activity**](#answer)
+    * [**Answer activity**](#answer-activity)
 
 
 # Introduction
