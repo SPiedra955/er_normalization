@@ -2,7 +2,8 @@
 ## Table of contents
  * [**Introduction**](#introduction)
  * [**Relational model**](#relational-model)
- * [**Activity normalization**](#activity-normalization)
+    * [**Normalization**](#normalization) 
+ * [**Normalization activity**](#normalization-activity)
 
 # Introduction
 
