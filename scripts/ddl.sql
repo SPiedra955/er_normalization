@@ -11,7 +11,7 @@ CREATE DATABASE Products
 -- Connect to the database
 -- -----------------------------------------------------
 
-USE Products
+USE Products;
 
 -- -----------------------------------------------------
 -- Creating tables
