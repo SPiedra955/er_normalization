@@ -7,7 +7,7 @@
     * [**Explanation**](#explanation) 
  * [**Normalization activity**](#normalization-activity)
     * [**Propose activity**](#propose-activity)
-    * [**Answer:**](#answer-:)
+    * [**Answer activity**](#answer)
 
 
 # Introduction
@@ -44,6 +44,6 @@ Therefore, the provided relational model satisfies both 3NF and BCNF.
 
 ![image](https://github.com/SPiedra955/er_normalization/assets/114516225/cdd1e290-c2cc-46cc-8d43-9dfcd6b1f01d)
 
-### Answer
+### Answer activity
 
 ![image](https://github.com/SPiedra955/er_normalization/assets/114516225/2735dd00-324f-4855-8507-70eaea23fda9)
