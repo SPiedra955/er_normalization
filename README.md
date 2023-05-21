@@ -6,7 +6,7 @@
     * [**Answer**](#answer)
     * [**Explanation**](#explanation) 
  * [**Normalization activity**](#normalization-activity)
-    * [**Activity**](#activity)
+    * [**Propose activity**](#propose-activity)
     * [**Answer**](#answer)
 
 
@@ -19,12 +19,12 @@ This repository has three differents activities and its content his related to t
 
 # Normalization diagram
 
-### Proposed activity:
+### Activity
 
 Take the E-R model you consider appropriate. Convert the E-R model to a relational model and produce the associated DDL code.
 Verify that the relational model satisfies 3rd normal form, optionally verify that the relational model satisfies Boyce-Codd normal form.
 
-### Answer:
+### Answer
 
 The next ER model enables you to store and manage information about products, their categories, suppliers, brands, and inventory in a structured and organized manner.
 
