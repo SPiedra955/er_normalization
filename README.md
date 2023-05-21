@@ -8,7 +8,8 @@
  * [**Normalization activity**](#normalization-activity)
     * [**Propose activity**](#propose-activity)
     * [**Answer activity**](#answer-activity)
-
+ * [**Normalization problem**](#normalization-problem)
+    * [**Propose problem**](#propose-problem)
 
 # Introduction
 
@@ -49,3 +50,11 @@ Therefore, the provided relational model satisfies both 3NF and BCNF.
 ### Answer activity
 
 ![image](https://github.com/SPiedra955/er_normalization/assets/114516225/2735dd00-324f-4855-8507-70eaea23fda9)
+
+# Normalization problem
+
+### Propose problem
+
+Look at the examples in the material provided by the teacher or any other examples you can find online and propose a normalization exercise and solve it. The exercise will start with a database model that does not comply with the 1NF. The database should be normalized up to 3NF and it must require some transformation in every step.
+
+Then propose another exercise of a database that does not comply with the BCNF and transform it to a BCNF compliant database.
