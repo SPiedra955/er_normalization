@@ -12,6 +12,7 @@
     * [**Propose problem**](#propose-problem)
     * [**Exercise 1**](#exercise-1)
     * [**Exercise 2**](#exercise-2)
+ * [**Bibliography**](#bibliography)
 
 # Introduction
 
@@ -115,7 +116,10 @@ To achieve BCNF, we need to create a separate table for the identified functiona
 
 By splitting the table based on the functional dependency, we have achieved a BCNF compliant database structure, and there are no overlapping functional dependencies.
 
+# Bibliography
 
-
+- [Normalization Exercises](https://www.studocu.com/es/document/universidad-san-jorge/lidia/ejercicios-normalizacion-base-de-datos/40941683)
+- [Normalitzation Explanation](https://learn.microsoft.com/es-es/office/troubleshoot/access/database-normalization-description)
+- [Normalization Guide Exercises](https://www.grch.com.ar/docs/bd/materia/11077/Normalizacion_ejercicios.pdf)
 
 
