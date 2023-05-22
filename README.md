@@ -1,4 +1,4 @@
-# ER Normalization
+# Normalization
 ## Table of contents
  * [**Introduction**](#introduction)
  * [**Normalization diagram**](#normalization-diagram)
