@@ -52,13 +52,13 @@ Therefore, the provided relational model satisfies both 3NF and BCNF.
 
 ### Answer activity
 
+Diagram 
+
 ![image](https://github.com/SPiedra955/er_normalization/assets/114516225/5f2716bb-c99b-417a-9a71-a76b74150062)
 
 3NF
 
 ![image](https://github.com/SPiedra955/er_normalization/assets/114516225/bed64846-4082-482d-8e70-1a0cfb5dfad0)
-
-Diagram 
 
 ![image](https://github.com/SPiedra955/er_normalization/assets/114516225/1d83b25e-3e84-4763-a93c-cb3d4c4ba6a0)
 
