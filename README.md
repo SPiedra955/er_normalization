@@ -5,9 +5,6 @@
     * [**Activity**](#activity)
     * [**Answer**](#answer)
     * [**Explanation**](#explanation) 
- * [**Normalization activity**](#normalization-activity)
-    * [**Propose activity**](#propose-activity)
-    * [**Answer activity**](#answer-activity)
  * [**Normalization problem**](#normalization-problem)
     * [**Propose problem**](#propose-problem)
     * [**Exercise 1**](#exercise-1)
@@ -43,25 +40,6 @@ In our relational model, both conditions are satisfied. The tables are in 2NF si
 To check BCNF, we need to ensure that every determinant is a superkey. In our relational model, all tables have a single-column primary key, making it a superkey.The BCNF condition is satisfied.
 
 Therefore, the provided relational model satisfies both 3NF and BCNF.
-
-# Normalization activity
-
-### Propose activity
-
-![image](https://github.com/SPiedra955/er_normalization/assets/114516225/cdd1e290-c2cc-46cc-8d43-9dfcd6b1f01d)
-
-### Answer activity
-
-Diagram 
-
-![image](https://github.com/SPiedra955/er_normalization/assets/114516225/5f2716bb-c99b-417a-9a71-a76b74150062)
-
-3NF
-
-![image](https://github.com/SPiedra955/er_normalization/assets/114516225/bed64846-4082-482d-8e70-1a0cfb5dfad0)
-
-![image](https://github.com/SPiedra955/er_normalization/assets/114516225/1d83b25e-3e84-4763-a93c-cb3d4c4ba6a0)
-
 
 # Normalization problem
 
