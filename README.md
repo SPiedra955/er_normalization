@@ -58,3 +58,29 @@ Therefore, the provided relational model satisfies both 3NF and BCNF.
 Look at the examples in the material provided by the teacher or any other examples you can find online and propose a normalization exercise and solve it. The exercise will start with a database model that does not comply with the 1NF. The database should be normalized up to 3NF and it must require some transformation in every step.
 
 Then propose another exercise of a database that does not comply with the BCNF and transform it to a BCNF compliant database.
+
+__Exercise 1__:
+
+We have the following table:
+
+![image](https://github.com/SPiedra955/er_normalization/assets/114516225/f8ad4dbb-b150-4093-8cc3-318bf31f6d2f)
+
+We create another table in the first normal form by deleting the repeating group (subject) as shown in the following image:
+
+![image](https://github.com/SPiedra955/er_normalization/assets/114516225/9cb4ab39-1710-45d5-af3d-452cdc016a68)
+
+We take into account the multiple values for the ````subject```` field for each student in the table above and we split it into tables.
+
+![image](https://github.com/SPiedra955/er_normalization/assets/114516225/6e05c403-ff26-43eb-8ba1-ea2a6f7734f2)
+
+Let's proceed with normalizing the data into third normal form. To achieve 3NF, we need to identify and remove any transitive dependencies.
+In the given data, we can identify the following functional dependencies:
+
+- id_student → name
+- id_student → class
+- id_student , subject1 → subject1 
+- id_student , subject2 → subject2 
+- id_student , subject3 → subject3 
+
+![image](https://github.com/SPiedra955/er_normalization/assets/114516225/5c8ba96e-f805-41f9-9815-2899208602b1)
+
