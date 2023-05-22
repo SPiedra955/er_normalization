@@ -10,6 +10,8 @@
     * [**Answer activity**](#answer-activity)
  * [**Normalization problem**](#normalization-problem)
     * [**Propose problem**](#propose-problem)
+    * [**Exercise 1**](#exercise-1)
+    * [**Exercise 2**](#exercise-2)
 
 # Introduction
 
@@ -59,7 +61,7 @@ Look at the examples in the material provided by the teacher or any other exampl
 
 Then propose another exercise of a database that does not comply with the BCNF and transform it to a BCNF compliant database.
 
-__Exercise 1__:
+### ___Exercise 1___:
 
 We have the following table:
 
@@ -83,4 +85,28 @@ In the given data, we can identify the following functional dependencies:
 - id_student , subject3 → subject3 
 
 ![image](https://github.com/SPiedra955/er_normalization/assets/114516225/5c8ba96e-f805-41f9-9815-2899208602b1)
+
+### ___Exercise 2___:
+
+We have the following table:
+
+![image](https://github.com/SPiedra955/er_normalization/assets/114516225/d2ecbeb7-9ae7-4bf5-84c7-611d8aa086da)
+
+Applying the BCNF:
+
+In this table, we have the Student_ID, Course_ID, Course_Name, Department, and Instructor attributes. The primary key of this table is the combination of Student_ID and Course_ID.
+To transform this table into a BCNF compliant database, we need to identify functional dependencies and split the table accordingly.
+
+Functional Dependencies:
+
+Course_ID → Course_Name, Department, Instructor
+To achieve BCNF, we need to create a separate table for the identified functional dependency.
+
+![image](https://github.com/SPiedra955/er_normalization/assets/114516225/5d03728f-697a-4477-930a-e2093e9db681)
+
+By splitting the table based on the functional dependency, we have achieved a BCNF compliant database structure, and there are no overlapping functional dependencies.
+
+
+
+
 
