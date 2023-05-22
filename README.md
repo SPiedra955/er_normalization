@@ -15,9 +15,8 @@
 
 This repository has three differents activities and its content his related to the relational diagrams normalization:
    - First part ````Normalization diagram````
-   - Second part ````Normalization activity````
-   - Third part ````Normalization problem````
-
+   - Second part ````Normalization problem````
+ 
 # Normalization diagram
 
 ### Activity
