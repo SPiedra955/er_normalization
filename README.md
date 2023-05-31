@@ -28,7 +28,10 @@ Verify that the relational model satisfies 3rd normal form, optionally verify th
 
 The next ER model enables you to store and manage information about products, their categories, suppliers, brands, and inventory in a structured and organized manner.
 
-Inside the folder [````scripts````](https://github.com/SPiedra955/er_normalization/tree/main/scripts) its the [ddl.sql](https://github.com/SPiedra955/er_normalization/blob/main/scripts/ddl.sql) code related to the E-R model.
+![image](https://github.com/SPiedra955/er_normalization/assets/114516225/03842ca1-135b-457b-9fb3-6a5a7ea07660)
+
+
+Inside the folder [````scripts````](https://github.com/SPiedra955/er_normalization/tree/main/scripts) its the [ddl.sql](https://github.com/SPiedra955/er_normalization/blob/main/scripts/ddl.sql) code related to the E-R model, and this is a diagram generated with the script and MYSQL Workbench reverse engineer option.
 
 ![image](https://github.com/SPiedra955/er_normalization/assets/114516225/4fc68c05-b0fc-4b7e-ae1a-7910a7567a09)
 
